@@ -1,2 +1,2 @@
 # bookingSystem
-booking system. html, css and vanlia js
+booking system. html, css and vanilla js
