@@ -1,0 +1,10 @@
+.signupBackground{
+    height: 60%;
+    background-color: crimson;
+    width: 500px;
+
+}
+
+
+
+#success_message{ display: none;}
